@@ -1,1 +1,1 @@
-ts_open,event_id,market_id,cat,question,implied_yes,no_token,yes_token,no_ask,model_true,est_edge,fee,shares,cost,ts_close,yes_won,pnl
+ts_open,event_id,market_id,cat,question,end_date,implied_yes,no_token,yes_token,no_ask,model_true,est_edge,fee,shares,cost,ts_close,yes_won,pnl
